@@ -1,5 +1,5 @@
 
-# Ejercicio de Pilate
+# Ejercicio de Pilates
 
 ## Descripción
 El pilates se enfoca en fortalecer el core, mejorar la flexibilidad y la postura mediante ejercicios controlados.
