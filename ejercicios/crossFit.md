@@ -15,3 +15,7 @@ El CrossFit es un entrenamiento funcional de alta intensidad que combina levanta
 2. Realiza un WOD (Workout of the Day) que combine levantamiento de pesas, saltos, y trabajo de core.
 3. Completa entre 3-5 rondas de diferentes ejercicios funcionales.
 4. Finaliza con un enfriamiento y estiramientos.
+
+## Consejos
+- Realiza los movimientos con control y sin comprometer la forma.
+- Ajusta la intensidad según tu nivel de fitness.
