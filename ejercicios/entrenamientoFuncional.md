@@ -13,3 +13,8 @@ El entrenamiento funcional mejora fuerza, equilibrio y resistencia mediante movi
 2. Realiza ejercicios como levantamientos, saltos y movimientos en el suelo.
 3. Completa 4-5 circuitos de 10-15 repeticiones.
 4. Finaliza con estiramientos y enfriamiento.
+
+## Consejos
+- Enfócate en la forma adecuada en cada ejercicio.
+- Varía los movimientos para trabajar diferentes grupos musculares.
+
