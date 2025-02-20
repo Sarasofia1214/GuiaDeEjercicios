@@ -13,3 +13,7 @@ El boxeo es un ejercicio de alta intensidad que mejora la fuerza, velocidad y re
 2. Realiza series de golpes al saco de boxeo o shadow boxing.
 3. Haz 3-4 rondas de 3 minutos cada una, descansando 1 minuto entre rondas.
 4. Termina con estiramientos y relajación.
+
+## Consejos
+- Mantén la postura adecuada para proteger tu muñeca y hombros.
+- Mantén el ritmo rápido y controlado durante las rondas.
