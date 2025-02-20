@@ -10,3 +10,9 @@ El entrenamiento de fuerza se centra en ejercicios que trabajan los músculos me
 - Mejora la densidad ósea.
 - Ayuda a mantener un metabolismo saludable.
 
+## Instrucciones
+
+1. Comienza con un calentamiento de 5-10 minutos, como caminar o trotar.
+2. Realiza ejercicios que trabajen diferentes grupos musculares, como sentadillas, flexiones o levantamiento de pesas.
+3. Haz entre 3 y 4 series de 8-12 repeticiones por ejercicio.
+4. Finaliza con estiramientos para mejorar la flexibilidad.
