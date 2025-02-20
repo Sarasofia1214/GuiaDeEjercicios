@@ -13,3 +13,7 @@ La natación es una actividad aeróbica que mejora la resistencia y la fuerza mu
 2. Realiza series de 4-6 largos con descansos breves entre cada uno.
 3. Varía los estilos de nado (crol, espalda, braza) para trabajar diferentes grupos musculares.
 4. Finaliza con estiramientos fuera del agua.
+
+## Consejos
+- Respira profundamente durante cada brazada.
+- Mantén una técnica adecuada para evitar lesiones.
