@@ -15,3 +15,7 @@ El pilates se enfoca en fortalecer el core, mejorar la flexibilidad y la postura
 2. Realiza ejercicios como el "hundimiento de pelvis" y "roll up".
 3. Haz 3-4 series de 10-15 repeticiones.
 4. Finaliza con estiramientos suaves.
+
+## Consejos
+- Concédele especial atención a la respiración controlada.
+- Mantén el abdomen contraído durante los ejercicios.
